@@ -30,6 +30,10 @@ This project requires installing the "readxl" and "class" packages in R.
 
 ## Instructions
 
-The dataset (Term project data FULL SET.xlsx) is not included in this repository because the file is too large for GitHub. Download it from the [Releases page](https://github.com/IsaacTongg/SBA-Loan-Default/releases/tag/v1.0), rename it to "Term project data FULL SET.xlsx" (GitHub replaces the spaces with periods), and place it in the same folder as Term Project.R.
+The dataset is too large to store in the repository itself, so it is hosted on the Releases page.
 
+1. Download `sba_data.xlsx` from the [Releases page](https://github.com/IsaacTongg/SBA-Loan-Default/releases/tag/v1.0).
+2. Put it in the same folder as `Term Project.R`.
+3. In RStudio, set that folder as your working directory.
+4. Run `Term Project.R` from top to bottom. The data import and modeling steps may take a few minutes.
 To run the project, set that folder as your working directory in RStudio and run Term Project.R from top to bottom. Depending on your computer, the data import and modeling steps may take a few minutes to finish.
