@@ -26,7 +26,7 @@ After cleaning the data, the final dataset contained 886,239 loans out of the or
 
 ## Requirements
 
-This project requires installing the readxl and class packages in R.
+This project requires installing the "readxl" and "class" packages in R.
 
 ## Instructions
 
